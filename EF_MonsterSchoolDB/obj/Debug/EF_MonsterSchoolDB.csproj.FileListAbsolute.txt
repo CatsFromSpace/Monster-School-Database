@@ -1,0 +1,12 @@
+C:\Users\giant\Documents\!School\Year 2\CSCI245\Lab7\EF_MonsterSchoolDB\bin\Debug\EF_MonsterSchoolDB.exe.config
+C:\Users\giant\Documents\!School\Year 2\CSCI245\Lab7\EF_MonsterSchoolDB\bin\Debug\EF_MonsterSchoolDB.exe
+C:\Users\giant\Documents\!School\Year 2\CSCI245\Lab7\EF_MonsterSchoolDB\bin\Debug\EF_MonsterSchoolDB.pdb
+C:\Users\giant\Documents\!School\Year 2\CSCI245\Lab7\EF_MonsterSchoolDB\bin\Debug\EntityFramework.dll
+C:\Users\giant\Documents\!School\Year 2\CSCI245\Lab7\EF_MonsterSchoolDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\giant\Documents\!School\Year 2\CSCI245\Lab7\EF_MonsterSchoolDB\bin\Debug\EntityFramework.xml
+C:\Users\giant\Documents\!School\Year 2\CSCI245\Lab7\EF_MonsterSchoolDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\giant\Documents\!School\Year 2\CSCI245\Lab7\EF_MonsterSchoolDB\obj\Debug\EF_MonsterSchoolDB.csproj.AssemblyReference.cache
+C:\Users\giant\Documents\!School\Year 2\CSCI245\Lab7\EF_MonsterSchoolDB\obj\Debug\EF_MonsterSchoolDB.csproj.CoreCompileInputs.cache
+C:\Users\giant\Documents\!School\Year 2\CSCI245\Lab7\EF_MonsterSchoolDB\obj\Debug\EF_Monst.5A6F4032.Up2Date
+C:\Users\giant\Documents\!School\Year 2\CSCI245\Lab7\EF_MonsterSchoolDB\obj\Debug\EF_MonsterSchoolDB.exe
+C:\Users\giant\Documents\!School\Year 2\CSCI245\Lab7\EF_MonsterSchoolDB\obj\Debug\EF_MonsterSchoolDB.pdb

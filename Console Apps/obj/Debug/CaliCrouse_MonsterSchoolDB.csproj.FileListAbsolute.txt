@@ -1,0 +1,24 @@
+C:\Users\giant\Documents\!School\Year 2\CSCI245\Lab6\Console Apps\CaliCrouse_MonsterSchoolDB\bin\Debug\CaliCrouse_MonsterSchoolDB.exe.config
+C:\Users\giant\Documents\!School\Year 2\CSCI245\Lab6\Console Apps\CaliCrouse_MonsterSchoolDB\bin\Debug\CaliCrouse_MonsterSchoolDB.exe
+C:\Users\giant\Documents\!School\Year 2\CSCI245\Lab6\Console Apps\CaliCrouse_MonsterSchoolDB\bin\Debug\CaliCrouse_MonsterSchoolDB.pdb
+C:\Users\giant\Documents\!School\Year 2\CSCI245\Lab6\Console Apps\CaliCrouse_MonsterSchoolDB\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\giant\Documents\!School\Year 2\CSCI245\Lab6\Console Apps\CaliCrouse_MonsterSchoolDB\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\giant\Documents\!School\Year 2\CSCI245\Lab6\Console Apps\CaliCrouse_MonsterSchoolDB\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\giant\Documents\!School\Year 2\CSCI245\Lab6\Console Apps\CaliCrouse_MonsterSchoolDB\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\giant\Documents\!School\Year 2\CSCI245\Lab6\Console Apps\CaliCrouse_MonsterSchoolDB\obj\Debug\CaliCrouse_MonsterSchoolDB.csproj.AssemblyReference.cache
+C:\Users\giant\Documents\!School\Year 2\CSCI245\Lab6\Console Apps\CaliCrouse_MonsterSchoolDB\obj\Debug\CaliCrouse_MonsterSchoolDB.csproj.CoreCompileInputs.cache
+C:\Users\giant\Documents\!School\Year 2\CSCI245\Lab6\Console Apps\CaliCrouse_MonsterSchoolDB\obj\Debug\CaliCrou.396E8D40.Up2Date
+C:\Users\giant\Documents\!School\Year 2\CSCI245\Lab6\Console Apps\CaliCrouse_MonsterSchoolDB\obj\Debug\CaliCrouse_MonsterSchoolDB.exe
+C:\Users\giant\Documents\!School\Year 2\CSCI245\Lab6\Console Apps\CaliCrouse_MonsterSchoolDB\obj\Debug\CaliCrouse_MonsterSchoolDB.pdb
+C:\Users\giant\Documents\!School\Year 2\Semester 1\CSCI245\Lab6\Console Apps\CaliCrouse_MonsterSchoolDB\bin\Debug\CaliCrouse_MonsterSchoolDB.exe.config
+C:\Users\giant\Documents\!School\Year 2\Semester 1\CSCI245\Lab6\Console Apps\CaliCrouse_MonsterSchoolDB\bin\Debug\CaliCrouse_MonsterSchoolDB.exe
+C:\Users\giant\Documents\!School\Year 2\Semester 1\CSCI245\Lab6\Console Apps\CaliCrouse_MonsterSchoolDB\bin\Debug\CaliCrouse_MonsterSchoolDB.pdb
+C:\Users\giant\Documents\!School\Year 2\Semester 1\CSCI245\Lab6\Console Apps\CaliCrouse_MonsterSchoolDB\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\giant\Documents\!School\Year 2\Semester 1\CSCI245\Lab6\Console Apps\CaliCrouse_MonsterSchoolDB\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\giant\Documents\!School\Year 2\Semester 1\CSCI245\Lab6\Console Apps\CaliCrouse_MonsterSchoolDB\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\giant\Documents\!School\Year 2\Semester 1\CSCI245\Lab6\Console Apps\CaliCrouse_MonsterSchoolDB\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\giant\Documents\!School\Year 2\Semester 1\CSCI245\Lab6\Console Apps\CaliCrouse_MonsterSchoolDB\obj\Debug\CaliCrouse_MonsterSchoolDB.csproj.AssemblyReference.cache
+C:\Users\giant\Documents\!School\Year 2\Semester 1\CSCI245\Lab6\Console Apps\CaliCrouse_MonsterSchoolDB\obj\Debug\CaliCrouse_MonsterSchoolDB.csproj.CoreCompileInputs.cache
+C:\Users\giant\Documents\!School\Year 2\Semester 1\CSCI245\Lab6\Console Apps\CaliCrouse_MonsterSchoolDB\obj\Debug\CaliCrou.396E8D40.Up2Date
+C:\Users\giant\Documents\!School\Year 2\Semester 1\CSCI245\Lab6\Console Apps\CaliCrouse_MonsterSchoolDB\obj\Debug\CaliCrouse_MonsterSchoolDB.exe
+C:\Users\giant\Documents\!School\Year 2\Semester 1\CSCI245\Lab6\Console Apps\CaliCrouse_MonsterSchoolDB\obj\Debug\CaliCrouse_MonsterSchoolDB.pdb

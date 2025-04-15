@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaliCrouse_MonsterSchoolDB", "CaliCrouse_MonsterSchoolDB.csproj", "{70DFE88B-A2E7-44BA-BE98-4B37536E08AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70DFE88B-A2E7-44BA-BE98-4B37536E08AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70DFE88B-A2E7-44BA-BE98-4B37536E08AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70DFE88B-A2E7-44BA-BE98-4B37536E08AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70DFE88B-A2E7-44BA-BE98-4B37536E08AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.Common.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.Data.6.0.1304.0\lib\NET45
+		SolutionGuid = {BAB4AE41-B96C-4A60-9E5E-160D1D38F5C9}
+	EndGlobalSection
+EndGlobal
